@@ -1,0 +1,11 @@
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.exe
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.deps.json
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.runtimeconfig.json
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.runtimeconfig.dev.json
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\20201403_PPE1.pdb
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.csprojAssemblyReference.cache
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.AssemblyInfoInputs.cache
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.AssemblyInfo.cs
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.pdb
