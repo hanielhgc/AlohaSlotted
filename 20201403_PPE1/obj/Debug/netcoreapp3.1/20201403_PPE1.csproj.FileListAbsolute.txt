@@ -9,3 +9,9 @@ C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\
 C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.AssemblyInfo.cs
 C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.dll
 C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.pdb
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Haniel\source\repos\AlohaSlotted\20201403_PPE1\obj\Debug\netcoreapp3.1\20201403_PPE1.csproj.CopyComplete

@@ -6,11 +6,11 @@ namespace _20201403_PPE1
 {
     public class Estacao
     {
-        public virtual int tProximaChegada { get; set; }
+        public virtual double tProximaChegada { get; set; }
         public virtual int nNaFila { get; set; }
-        public virtual int tProximaTransmissao { get; set; }
+        public virtual double tProximaTransmissao { get; set; }
 
-        public Estacao(int tProximaChegada, int nNaFila, int tProximaTransmissao)
+        public Estacao(double tProximaChegada, int nNaFila, double tProximaTransmissao)
         {
             this.tProximaChegada = tProximaChegada;
             this.nNaFila = nNaFila;
